@@ -8,6 +8,9 @@
       <button type="button" name="homeButton" onclick="location.href='../homepage.html';">Home Page</button>
       <button type="button" name="mainButton" onclick="location.href='commandexec.html';">Main Page</button>
     </div>
+    
+    // a spacer for test
+    
     <div style="background-color:#c9c9c9;padding:20px;">
       <h1 align="center">Login as Admin</h1>
     <form align="center" action="CommandExec-1.php" method="$_GET">
