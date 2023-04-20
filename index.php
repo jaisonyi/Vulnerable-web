@@ -232,6 +232,8 @@ function create_tables($conn, $db_name){
    }
 }
 
+	
+	//
 function remove_database($conn){
    $sql = 'DROP DATABASE 1ccb8097d0e9ce9f154608be60224c7c';
    $retval = mysqli_query($conn, $sql);
